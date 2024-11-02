@@ -1,0 +1,201 @@
+Student_ID,First_Name,Last Name,Age,Gender,Library_weekly_hours,Class_weekly_attendance_percentage,Extra-curricular_weekly_hours,Previous_Exam_Score,Father_Occupation,Mother_Occupation,Parent_Income_Level
+S001,Tunde,Ibe,16,Female,7,36.7,12,31,Doctor,Teacher,Medium
+S002,Chinedu,Adamu,18,Male,9,41.7,7,51,Engineer,Unemployed,Medium
+S003,Emeka,Eze,17,Male,1,31.7,9,15,Doctor,Doctor,Low
+S004,Ibrahim,Adebayo,18,Male,7,36.7,13,29,Doctor,Farmer,High
+S005,Ngozi,Mohammed,17,Male,5,46.7,12,35,Doctor,Civil Servant,Low
+S006,Kemi,Olawale,16,Female,1,66.7,1,59,Civil Servant,Unemployed,Medium
+S007,Adeola,Adamu,18,Male,10,30,6,45,Unemployed,Doctor,High
+S008,Chinedu,Adebayo,17,Female,7,65,9,61,Trader,Unemployed,Medium
+S009,Adeola,Adebayo,15,Female,8,45,14,37,Trader,Doctor,High
+S010,Kemi,Ibe,16,Male,7,60,13,48,Engineer,Doctor,Medium
+S011,Emeka,Eze,15,Male,8,60,4,68,Unemployed,Farmer,High
+S012,Emeka,Mohammed,16,Male,1,58.3,3,50,Doctor,Civil Servant,High
+S013,Adeola,Okafor,17,Male,5,55,12,41,Teacher,Civil Servant,High
+S014,Tunde,Adamu,18,Female,5,31.7,12,20,Engineer,Doctor,Low
+S015,Bola,Adebayo,17,Male,7,43.3,11,38,Trader,Engineer,High
+S016,Chinedu,Balogun,19,Female,7,40,9,38,Civil Servant,Trader,Medium
+S017,Emeka,Osinachi,19,Female,6,65,8,59,Doctor,Unemployed,High
+S018,Tunde,Adamu,17,Female,1,66.7,3,57,Unemployed,Teacher,High
+S019,Emeka,Okafor,15,Female,10,55,5,68,Farmer,Trader,Medium
+S020,Oluchi,Abubakar,14,Male,1,38.3,11,15,Unemployed,Trader,Medium
+S021,Adeola,Ibe,16,Male,2,60,5,51,Farmer,Civil Servant,Low
+S022,Oluchi,Mohammed,16,Male,0,46.7,8,27,Engineer,Doctor,High
+S023,Ibrahim,Balogun,19,Male,8,55,12,49,Doctor,Trader,Low
+S024,Kemi,Olawale,16,Female,7,38.3,7,40,Doctor,Doctor,High
+S025,Oluchi,Olawale,17,Female,2,41.7,9,24,Farmer,Farmer,High
+S026,Adeola,Okafor,15,Female,1,66.7,13,35,Civil Servant,Unemployed,High
+S027,Oluchi,Ibe,16,Female,7,46.7,8,46,Unemployed,Teacher,High
+S028,Adeola,Eze,17,Male,1,65,9,45,Civil Servant,Engineer,Low
+S029,Tunde,Eze,16,Female,2,63.3,4,56,Engineer,Teacher,High
+S030,Chinedu,Adamu,11,Male,3,60,8,48,Farmer,Civil Servant,High
+S031,Bola,Adebayo,16,Male,5,65,11,50,Trader,Unemployed,High
+S032,Ibrahim,Ibe,16,Female,4,65,10,50,Farmer,Civil Servant,High
+S033,Amina,Adamu,19,Male,8,60,14,48,Farmer,Engineer,High
+S034,Kemi,Eze,17,Male,9,63.3,0,85,Trader,Unemployed,Medium
+S035,Oluchi,Osinachi,15,Male,9,48.3,7,56,Teacher,Civil Servant,Low
+S036,Amina,Osinachi,17,Male,5,46.7,12,32,Teacher,Engineer,Low
+S037,Ngozi,Okafor,17,Male,6,43.3,5,47,Teacher,Civil Servant,Low
+S038,Chinedu,Adamu,18,Female,7,46.7,8,46,Unemployed,Farmer,High
+S039,Ngozi,Mohammed,18,Male,7,28.3,11,23,Engineer,Civil Servant,High
+S040,Kemi,Eze,16,Male,9,53.3,13,49,Teacher,Unemployed,Low
+S041,Amina,Abubakar,17,Male,8,38.3,4,50,Unemployed,Trader,Medium
+S042,Tunde,Osinachi,18,Female,6,28.3,15,12,Trader,Unemployed,High
+S043,Ngozi,Abubakar,19,Female,2,56.7,11,37,Engineer,Engineer,Low
+S044,Adeola,Osinachi,16,Male,4,53.3,13,34,Farmer,Doctor,Medium
+S045,Adeola,Eze,16,Female,8,41.7,8,48,Trader,Teacher,Medium
+S046,Kemi,Balogun,19,Female,6,33.3,13,23,Civil Servant,Trader,Low
+S047,Ngozi,Ibe,20,Male,3,30,13,11,Unemployed,Trader,High
+S048,Ibrahim,Balogun,18,Male,5,61.7,7,57,Trader,Farmer,Medium
+S049,Emeka,Adebayo,17,Female,8,28.3,12,25,Farmer,Civil Servant,Low
+S050,Oluchi,Okafor,15,Female,3,43.3,14,20,Unemployed,Civil Servant,Low
+S051,Amina,Abubakar,18,Female,7,48.3,14,36,Civil Servant,Teacher,High
+S052,Adeola,Adebayo,18,Male,6,61.7,14,46,Trader,Engineer,Medium
+S053,Ngozi,Adebayo,18,Male,5,28.3,1,38,Doctor,Engineer,Medium
+S054,Ngozi,Ibe,15,Female,10,65,15,58,Teacher,Unemployed,Medium
+S055,Amina,Adamu,15,Female,2,48.3,8,35,Farmer,Trader,Medium
+S056,Bola,Olawale,18,Male,1,58.3,2,52,Unemployed,Trader,Medium
+S057,Ngozi,Olawale,15,Female,0,55,3,45,Trader,Engineer,Medium
+S058,Amina,Balogun,17,Female,1,30,4,21,Engineer,Trader,High
+S059,Tunde,Adamu,18,Female,3,51.7,4,48,Teacher,Engineer,High
+S060,Adeola,Olawale,17,Male,6,43.3,8,42,Teacher,Trader,Medium
+S061,Tunde,Adebayo,15,Male,10,48.3,0,73,Engineer,Trader,Medium
+S062,Bola,Balogun,15,Female,9,41.7,8,48,Unemployed,Civil Servant,High
+S063,Chinedu,Balogun,15,Male,7,60,8,60,Civil Servant,Unemployed,Low
+S064,Bola,Adebayo,16,Female,1,40,13,15,Engineer,Civil Servant,Medium
+S065,Emeka,Okafor,17,Male,1,61.7,2,55,Doctor,Farmer,High
+S066,Oluchi,Ibe,19,Female,8,45,13,41,Teacher,Teacher,Low
+S067,Bola,Okafor,19,Male,5,45,5,44,Engineer,Teacher,High
+S068,Tunde,Adebayo,17,Female,2,31.7,10,13,Teacher,Unemployed,High
+S069,Ngozi,Ibe,16,Male,9,38.3,12,37,Civil Servant,Doctor,High
+S070,Kemi,Ibe,16,Male,2,33.3,15,7,Unemployed,Doctor,Low
+S071,Bola,Adebayo,16,Male,1,36.7,8,20,Engineer,Trader,Medium
+S072,Tunde,Osinachi,16,Female,3,46.7,9,34,Engineer,Farmer,Low
+S073,Emeka,Adebayo,15,Male,9,30,3,47,Trader,Civil Servant,Low
+S074,Tunde,Eze,16,Female,6,56.7,3,64,Doctor,Trader,Medium
+S075,Ibrahim,Abubakar,15,Male,3,33.3,11,16,Unemployed,Unemployed,High
+S076,Bola,Eze,15,Female,3,48.3,3,45,Unemployed,Trader,High
+S077,Emeka,Adebayo,18,Male,7,53.3,12,44,Doctor,Doctor,Low
+S078,Bola,Adamu,17,Male,7,36.7,2,48,Engineer,Unemployed,Medium
+S079,Bola,Mohammed,19,Male,5,28.3,12,15,Farmer,Farmer,Medium
+S080,Oluchi,Osinachi,15,Male,6,60,14,44,Trader,Unemployed,Low
+S081,Kemi,Osinachi,15,Male,4,46.7,4,46,Doctor,Farmer,Low
+S082,Kemi,Olawale,17,Female,3,35,4,31,Trader,Trader,Low
+S083,Ibrahim,Mohammed,18,Female,3,50,6,42,Civil Servant,Farmer,Medium
+S084,Ngozi,Osinachi,18,Female,1,36.7,8,18,Doctor,Engineer,Low
+S085,Ibrahim,Olawale,19,Male,10,50,5,64,Teacher,Trader,High
+S086,Ibrahim,Ibe,17,Male,9,63.3,4,75,Trader,Trader,Low
+S087,Ibrahim,Eze,17,Female,9,60,7,67,Civil Servant,Civil Servant,Low
+S088,Tunde,Balogun,17,Male,4,30,8,21,Doctor,Civil Servant,High
+S089,Amina,Olawale,17,Male,5,30,12,16,Doctor,Civil Servant,Low
+S090,Adeola,Adamu,15,Male,2,56.7,4,50,Doctor,Trader,Medium
+S091,Kemi,Ibe,17,Male,5,55,6,51,Unemployed,Teacher,High
+S092,Emeka,Balogun,18,Female,9,50,4,63,Teacher,Civil Servant,High
+S093,Chinedu,Adamu,18,Female,7,33.3,7,39,Unemployed,Teacher,Medium
+S094,Tunde,Abubakar,19,Female,2,51.7,4,45,Trader,Doctor,Low
+S095,Amina,Ibe,16,Male,7,63.3,1,75,Unemployed,Teacher,Low
+S096,Chinedu,Okafor,17,Male,5,33.3,1,42,Doctor,Teacher,High
+S097,Kemi,Eze,15,Male,8,46.7,11,45,Teacher,Teacher,High
+S098,Oluchi,Ibe,18,Male,0,30,1,27,Civil Servant,Teacher,High
+S099,Emeka,Mohammed,15,Female,7,45,8,46,Civil Servant,Trader,Low
+S100,Oluchi,Ibe,17,Female,7,55,2,66,Civil Servant,Engineer,Medium
+S101,Bola,Adebayo,17,Male,2,46.7,11,27,Trader,Engineer,Medium
+S102,Adeola,Abubakar,15,Male,8,36.7,11,37,Doctor,Engineer,Low
+S103,Tunde,Balogun,18,Female,6,55,9,49,Unemployed,Civil Servant,High
+S104,Amina,Olawale,18,Female,10,45,8,54,Unemployed,Civil Servant,High
+S105,Kemi,Olawale,16,Female,2,41.7,1,42,Trader,Trader,Low
+S106,Ngozi,Osinachi,15,Male,8,60,15,47,Farmer,Doctor,Medium
+S107,Amina,Balogun,19,Female,2,26.7,13,3,Engineer,Farmer,Medium
+S108,Emeka,Ibe,19,Female,4,26.7,12,11,Trader,Engineer,Medium
+S109,Chinedu,Adamu,17,Female,3,33.3,0,38,Unemployed,Civil Servant,Medium
+S110,Adeola,Mohammed,17,Male,9,26.7,2,46,Doctor,Teacher,Medium
+S111,Tunde,Olawale,18,Male,8,65,13,57,Farmer,Trader,High
+S112,Ngozi,Abubakar,17,Female,6,50,11,39,Doctor,Teacher,Low
+S113,Kemi,Ibe,19,Male,6,30,4,37,Trader,Teacher,High
+S114,Oluchi,Olawale,17,Female,7,28.3,3,39,Trader,Civil Servant,High
+S115,Oluchi,Mohammed,15,Male,10,48.3,1,70,Civil Servant,Unemployed,Medium
+S116,Bola,Okafor,17,Male,7,35,6,40,Civil Servant,Trader,High
+S117,Chinedu,Adamu,18,Male,8,38.3,7,45,Trader,Civil Servant,High
+S118,Ngozi,Okafor,15,Male,4,33.3,15,13,Doctor,Civil Servant,Low
+S119,Kemi,Adamu,16,Female,4,51.7,8,41,Unemployed,Trader,Low
+S120,Tunde,Ibe,15,Male,5,50,14,31,Teacher,Teacher,Medium
+S121,Ibrahim,Balogun,18,Female,4,36.7,13,20,Civil Servant,Trader,High
+S122,Ngozi,Abubakar,19,Male,1,33.3,15,1,Doctor,Farmer,High
+S123,Emeka,Balogun,17,Male,3,31.7,1,36,Teacher,Trader,High
+S124,Ibrahim,Mohammed,16,Female,8,41.7,15,32,Engineer,Engineer,Medium
+S125,Adeola,Mohammed,15,Female,7,28.3,2,44,Unemployed,Farmer,Low
+S126,Bola,Ibe,17,Male,1,60,3,52,Engineer,Unemployed,Medium
+S127,Tunde,Adebayo,19,Male,5,65,5,66,Doctor,Unemployed,High
+S128,Oluchi,Eze,16,Female,8,56.7,1,73,Unemployed,Civil Servant,Low
+S129,Tunde,Adamu,16,Female,3,55,5,50,Trader,Unemployed,High
+S130,Amina,Ibe,17,Female,9,31.7,8,40,Civil Servant,Civil Servant,Medium
+S131,Ibrahim,Abubakar,16,Female,1,45,15,15,Civil Servant,Trader,Low
+S132,Kemi,Adebayo,16,Female,9,63.3,11,62,Doctor,Trader,Low
+S133,Emeka,Olawale,18,Female,3,53.3,5,48,Doctor,Farmer,High
+S134,Adeola,Adamu,18,Male,8,61.7,3,75,Doctor,Engineer,Medium
+S135,Bola,Osinachi,17,Female,5,46.7,7,46,Unemployed,Civil Servant,Low
+S136,Amina,Balogun,16,Male,3,33.3,15,12,Unemployed,Trader,Low
+S137,Adeola,Abubakar,19,Female,1,60,10,38,Engineer,Engineer,Medium
+S138,Bola,Mohammed,17,Female,7,53.3,3,63,Doctor,Unemployed,Low
+S139,Chinedu,Mohammed,18,Male,1,33.3,2,28,Farmer,Unemployed,Low
+S140,Emeka,Okafor,16,Male,9,50,3,66,Farmer,Teacher,High
+S141,Oluchi,Eze,18,Female,4,61.7,11,45,Doctor,Trader,High
+S142,Tunde,Mohammed,15,Male,1,31.7,7,17,Teacher,Farmer,High
+S143,Amina,Okafor,16,Male,2,48.3,12,25,Unemployed,Doctor,Low
+S144,Tunde,Adamu,17,Female,2,61.7,5,49,Doctor,Trader,Low
+S145,Kemi,Mohammed,16,Male,7,61.7,12,54,Engineer,Unemployed,Medium
+S146,Bola,Abubakar,16,Male,7,43.3,14,33,Doctor,Farmer,Low
+S147,Ngozi,Olawale,18,Male,4,43.3,5,42,Trader,Unemployed,Medium
+S148,Adeola,Adebayo,19,Male,5,26.7,10,18,Engineer,Engineer,High
+S149,Amina,Adebayo,16,Male,2,48.3,4,40,Doctor,Farmer,Medium
+S150,Tunde,Okafor,16,Female,9,25,3,43,Teacher,Doctor,Medium
+S151,Amina,Okafor,15,Male,3,61.7,3,59,Doctor,Doctor,Medium
+S152,Bola,Mohammed,16,Female,2,28.3,12,9,Civil Servant,Farmer,Medium
+S153,Ngozi,Olawale,19,Female,0,50,11,22,Engineer,Farmer,High
+S154,Oluchi,Osinachi,17,Male,2,31.7,11,13,Trader,Civil Servant,Low
+S155,Adeola,Adebayo,17,Female,4,48.3,8,39,Trader,Doctor,Medium
+S156,Chinedu,Adebayo,16,Male,3,65,9,50,Doctor,Doctor,Medium
+S157,Oluchi,Mohammed,18,Male,8,26.7,15,17,Doctor,Teacher,Medium
+S158,Bola,Okafor,19,Male,7,30,10,29,Trader,Unemployed,High
+S159,Adeola,Abubakar,18,Female,5,60,11,46,Unemployed,Doctor,High
+S160,Ngozi,Adebayo,19,Female,5,51.7,8,45,Unemployed,Farmer,Low
+S161,Bola,Olawale,16,Female,9,25,15,18,Trader,Engineer,High
+S162,Kemi,Mohammed,19,Female,4,45,1,52,Doctor,Trader,Medium
+S163,Amina,Adebayo,19,Male,5,35,1,44,Unemployed,Engineer,Medium
+S164,Tunde,Eze,19,Male,5,40,15,20,Teacher,Doctor,High
+S165,Oluchi,Olawale,17,Female,6,28.3,10,22,Doctor,Civil Servant,High
+S166,Oluchi,Adebayo,17,Male,7,60,1,72,Teacher,Trader,Low
+S167,Bola,Ibe,18,Male,1,51.7,3,42,Doctor,Unemployed,High
+S168,Ngozi,Abubakar,17,Male,6,26.7,5,31,Farmer,Farmer,High
+S169,Amina,Mohammed,15,Female,2,65,9,47,Doctor,Farmer,Medium
+S170,Amina,Okafor,16,Male,10,53.3,12,53,Farmer,Civil Servant,High
+S171,Oluchi,Abubakar,16,Male,2,53.3,14,26,Teacher,Civil Servant,Medium
+S172,Amina,Balogun,17,Male,1,41.7,8,24,Farmer,Civil Servant,Medium
+S173,Chinedu,Mohammed,16,Female,8,48.3,15,37,Engineer,Farmer,High
+S174,Oluchi,Abubakar,15,Female,9,65,4,77,Unemployed,Doctor,High
+S175,Oluchi,Balogun,17,Female,0,30,5,18,Teacher,Engineer,Low
+S176,Tunde,Balogun,16,Female,6,61.7,10,55,Unemployed,Farmer,High
+S177,Oluchi,Abubakar,19,Male,7,65,10,59,Doctor,Civil Servant,Low
+S178,Emeka,Balogun,17,Male,3,63.3,13,41,Farmer,Trader,Low
+S179,Tunde,Eze,17,Male,6,28.3,5,35,Teacher,Trader,Low
+S180,Bola,Abubakar,16,Male,6,56.7,2,66,Doctor,Doctor,Low
+S181,Tunde,Mohammed,18,Female,8,31.7,5,42,Doctor,Civil Servant,High
+S182,Emeka,Balogun,18,Male,1,63.3,3,54,Engineer,Farmer,High
+S183,Amina,Abubakar,19,Male,7,46.7,10,45,Teacher,Unemployed,High
+S184,Tunde,Eze,17,Male,4,61.7,14,40,Trader,Doctor,High
+S185,Ibrahim,Mohammed,17,Female,2,45,1,43,Teacher,Doctor,Low
+S186,Chinedu,Osinachi,16,Male,7,33.3,9,33,Unemployed,Trader,Medium
+S187,Adeola,Ibe,15,Male,9,61.7,4,75,Engineer,Unemployed,High
+S188,Oluchi,Balogun,18,Male,0,43.3,13,15,Civil Servant,Farmer,Medium
+S189,Tunde,Olawale,18,Female,2,58.3,9,39,Engineer,Teacher,Medium
+S190,Kemi,Ibe,16,Female,9,35,11,37,Civil Servant,Engineer,High
+S191,Emeka,Okafor,15,Male,8,60,3,71,Doctor,Doctor,Medium
+S192,Chinedu,Eze,18,Male,4,66.7,10,52,Doctor,Teacher,Low
+S193,Oluchi,Mohammed,16,Female,1,40,5,27,Trader,Doctor,Medium
+S194,Ibrahim,Okafor,16,Female,7,35,9,36,Engineer,Teacher,High
+S195,Ngozi,Balogun,18,Female,3,60,1,61,Teacher,Engineer,Low
+S196,Emeka,Adamu,16,Male,5,61.7,1,68,Trader,Trader,Medium
+S197,Adeola,Mohammed,17,Male,0,46.7,1,40,Trader,Teacher,High
+S198,Ngozi,Okafor,18,Male,9,46.7,8,55,Trader,Civil Servant,High
+S199,Adeola,Balogun,18,Female,9,66.7,13,63,Doctor,Trader,High
+S200,Adeola,Adebayo,18,Female,6,41.7,2,49,Civil Servant,Farmer,High
