@@ -4,7 +4,7 @@ The management of an academic institution has observed the general underperforma
 
 I am expected to deliver :
 - A dashboard for easy monitoring and comprehension of key variables affecting student performance.
-- A performance forecasting model to help the institution predict student performance with a minimum of MAE < 2 points.
+- A performance forecasting model to help the institution predict student performance with a maximum MAE of 2 points.
 ## Data
   To aid the analysis process, I have been provided with some data. Data fields are identified below:
 - Student_ID : The identification number assigned to the student by the school.
