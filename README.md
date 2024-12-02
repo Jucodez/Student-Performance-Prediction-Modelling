@@ -60,7 +60,7 @@ The equation of the regression model was given as:
 
 Previous_Exam_Score = 41.28 + (-0.06) * Age + (8.53) * Average_library_weekly_hours + (11.27) * Class_weekly_attendance_percentage + (-8.79) * Average_extra-curricular_weekly_hours
 
-Subsequently a Streamlit app was built:
+Subsequently a [Streamlit app](https://student-performance-prediction-modelling.streamlit.app/) was built:
 
 ![Screenshot (1021)](https://github.com/user-attachments/assets/1088e246-8391-444a-aab9-4118d19b5b9a)
 
